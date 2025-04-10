@@ -15,3 +15,8 @@ This repository provides a simple setup to run **Kong Gateway** and **Keycloak**
 git clone <repo-url>
 cd Kong-local-env-setup
 ```
+
+```bash
+docker-compose up -d
+```
+
